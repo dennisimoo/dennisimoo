@@ -1,8 +1,23 @@
-👋 Hi, I'm [Dennis]!
-- A wannabe Cybersecurity Analyst
-- Skills: Python, HTML, CSS, Javascript
-- Frameworks & Libraries: Flask, Node.js
-🌱 What I’m Learning Now
-- Learning more about web development and security
-- Diving deeper into real-world threat analysis
-- Exploring basics of penetration testing
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profile</title>
+</head>
+<body>
+    <h1>👋 Hi, I'm Dennis!</h1>
+    <ul>
+        <li>A wannabe Cybersecurity Analyst</li>
+        <li>Skills: Python, HTML, CSS, Javascript</li>
+        <li>Frameworks & Libraries: Flask, Node.js</li>
+    </ul>
+
+    <h2>🌱 What I’m Learning Now</h2>
+    <ul>
+        <li>Learning more about web development and security</li>
+        <li>Diving deeper into real-world threat analysis</li>
+        <li>Exploring basics of penetration testing</li>
+    </ul>
+</body>
+</html>
