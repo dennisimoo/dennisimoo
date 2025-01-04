@@ -16,7 +16,8 @@ jobs:
           outputs: |
             dist/github-snake.svg
       - uses: crazy-max/ghaction-github-pages@v3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           target_branch: output
           build_dir: dist
-          token: ${{ secrets.GITHUB_TOKEN }}
