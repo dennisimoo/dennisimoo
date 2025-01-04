@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Dennis 👋
 
-<!--
-**dennisimoo/dennisimoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about technology, coding, and AI. Feel free to explore my repositories and projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### GitHub Profile Views  
+![Profile Views](https://komarev.com/ghpvc/?username=dennisimoo&color=blue&style=flat-square)
+
+---
+
+### What I’m Currently Working On  
+- Learning new technologies and frameworks  
+- Exploring the capabilities of AI  
+- Contributing to and improving open-source projects
+
+---
+
+### Get in Touch  
+- **Discord:** [dennisim0](https://discord.com/users/696217160007155812) 
+
+---
+
+Thanks for visiting! 🚀
