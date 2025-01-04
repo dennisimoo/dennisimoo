@@ -9,6 +9,16 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and AI. F
 
 ---
 
+### 🐍 GitHub Contribution Snake Animation
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/dennisimoo/dennisimoo/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/dennisimoo/dennisimoo/blob/output/github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/dennisimoo/dennisimoo/blob/output/github-snake.svg" />
+</picture>
+
+---
+
 ### What I’m Currently Working On  
 - Learning new technologies and frameworks  
 - Exploring the capabilities of AI  
