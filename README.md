@@ -1,6 +1,6 @@
 # Hi there, I'm Dennis 👋
 
-Welcome to my GitHub profile! I'm passionate about technology, coding, and AI. Feel free to explore my repositories and projects.
+Welcome to my GitHub profile! I'm interested in technology, coding, and AI, and I enjoy building and experimenting with new ideas. Feel free to check out my repositories and projects!
 
 ---
 
@@ -20,11 +20,10 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and AI. F
 
 ---
 
-### What I’m Currently Working On  
-- Learning new technologies and frameworks  
-- Exploring the capabilities of AI  
-- Contributing to and improving open-source projects
-
+### 🔧 What I’m Working On  
+- Learning new tools and technologies  
+- Discovering what AI can do and how it works  
+- Building cool projects and sharing them with the community  
 ---
 
 ### Get in Touch  
