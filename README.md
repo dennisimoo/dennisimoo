@@ -2,8 +2,6 @@
 
 Welcome to my GitHub profile!
 
-![Hello World](https://www.codelikethewind.org/content/images/size/w2000/2022/05/hello_world.png)
-
 ---
 
 ### GitHub Profile Views  
