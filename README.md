@@ -1,6 +1,8 @@
-# Hi there, I'm Dennis 👋
+# Hey there, I'm Dennis 👋
 
-Welcome to my GitHub profile! I'm interested in technology, coding, and AI, and I enjoy building and experimenting with new ideas. Feel free to check out my repositories and projects!
+Welcome to my GitHub profile!
+
+![Hello World](https://www.codelikethewind.org/content/images/size/w2000/2022/05/hello_world.png)
 
 ---
 
@@ -17,13 +19,6 @@ Welcome to my GitHub profile! I'm interested in technology, coding, and AI, and 
   <img alt="github-snake" src="https://github.com/dennisimoo/dennisimoo/blob/output/github-snake.svg" />
 </picture>
 
-
----
-
-### 🔧 What I’m Working On  
-- Learning new tools and technologies  
-- Discovering what AI can do and how it works  
-- Building cool projects and sharing them with the community  
 ---
 
 ### Get in Touch  
