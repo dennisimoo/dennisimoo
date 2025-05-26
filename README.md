@@ -2,7 +2,7 @@
 
 # hey there! i'm dennis
 
-### just a 13-year-old who builds cool stuff with code
+### i like building cool stuff with code
 
 
 ## now playing on spotify
