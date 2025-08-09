@@ -20,7 +20,7 @@ I also enjoy listening to music and keeping up with new tech.
 ---
 
 ## 🐍 Snake animation
-![GitHub Snake Animation](https://raw.githubusercontent.com/dennisimoo/dennisimoo/output/github-snake.svg)
+![GitHub Snake Animation](https://raw.githubusercontent.com/dennisimoo/dennisimoo/output/github-snake-dark.svg)
 
 ---
 
