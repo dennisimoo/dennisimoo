@@ -1,5 +1,5 @@
 # Hi, I'm Dennis  
-14 y/o Web Developer | AI Enthusiast  
+AI Engineer
 
 *"If you're going to try, go all the way."* – Charles Bukowski  
 
