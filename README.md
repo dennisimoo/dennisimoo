@@ -1,9 +1,2 @@
-# Hey, I'm Dennis 👋  
----
+ ![GitHub Snake Animation](https://raw.githubusercontent.com/dennisimoo/dennisimoo/output/github-snake-dark.svg)
 
-## 🐍 Snake Animation  
-![GitHub Snake Animation](https://raw.githubusercontent.com/dennisimoo/dennisimoo/output/github-snake-dark.svg)
-
----
-
-✨ I love open source ❤️
