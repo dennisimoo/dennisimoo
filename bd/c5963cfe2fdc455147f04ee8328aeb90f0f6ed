@@ -1,0 +1,19 @@
+README.md
+  s_c72b180f287542::t_f3c9f60e3da20b 1-2
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "bdc5963cfe2fdc455147f04ee8328aeb90f0f6ed",
+  "prompts": {},
+  "sessions": {
+    "s_c72b180f287542": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "28759410-7820-4727-a454-f6a7d0e85d56",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "randomperson12344 <4dennisk@gmail.com>"
+    }
+  }
+}
