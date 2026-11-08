@@ -1,6 +1,6 @@
 Building **[Peak Security](https://peaksec.co)**: we hack you, before attackers do.
 
-<p align="center"><b>⛰️ climb the peak: tap any square to leave your mark</b><br>↓</p>
+<p align="center"><b>yes, you can click this</b><br>↓</p>
 
 <a href="https://placefile.4dennisk.workers.dev/u/dennisimoo/tap">
   <picture>
