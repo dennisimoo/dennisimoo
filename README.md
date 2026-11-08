@@ -8,3 +8,5 @@ Building **[Peak Security](https://peaksec.co)**: we hack you, before attackers 
     <img ismap src="https://placefile.4dennisk.workers.dev/u/dennisimoo/canvas.svg?theme=light" width="846" alt="Shared pixel canvas. Click a square to toggle it.">
   </picture>
 </a>
+
+<p align="center"><a href="https://placefile.4dennisk.workers.dev/u/dennisimoo/draw">✏️ or type anything and AI draws it</a></p>
