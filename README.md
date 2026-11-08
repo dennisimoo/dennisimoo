@@ -1,1 +1,6 @@
-
+<a href="https://placefile.4dennisk.workers.dev/u/dennisimoo/tap">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://placefile.4dennisk.workers.dev/u/dennisimoo/canvas.svg?theme=dark">
+    <img ismap src="https://placefile.4dennisk.workers.dev/u/dennisimoo/canvas.svg?theme=light" width="846" alt="Shared pixel canvas. Click a square to toggle it.">
+  </picture>
+</a>
